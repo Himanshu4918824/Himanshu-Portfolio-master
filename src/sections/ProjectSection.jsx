@@ -2,7 +2,7 @@ const projects = [
     {
         title: "Portfolio Website",
         description: "A personal portfolio built using React and Tailwind CSS.",
-        link: "https://dhamkirti-portfolio.vercel.app/",
+        link: "https://himanshu-portfolio-master.vercel.app/",
     },
     {
         title: "The Flavor Workshop / Food Admin Management Panel",
